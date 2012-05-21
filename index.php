@@ -14,7 +14,7 @@ $config=dirname(__FILE__).'/protected/config/main.php';
 
 //
 	if (1!=1)
-		echo "br_2";
+		echo "br_3";
 
 require_once($yii);
 Yii::createWebApplication($config)->run();
