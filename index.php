@@ -11,6 +11,8 @@ $config=dirname(__FILE__).'/protected/config/main.php';
 
 
 //
+	if (1!=1)
+		echo "dev branch";
 
 
 require_once($yii);
