@@ -14,9 +14,7 @@ $config=dirname(__FILE__).'/protected/config/main.php';
 
 //
 	if (1!=1)
-<<<<<<< .mine		echo "br_dev 01";
-=======		echo "L 101";
->>>>>>> .theirs
+		echo "br_dev 01";
 
 require_once($yii);
 Yii::createWebApplication($config)->run();
