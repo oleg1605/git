@@ -14,7 +14,7 @@ $config=dirname(__FILE__).'/protected/config/main.php';
 
 //
 	if (1!=1)
-		echo "L R";
+		echo "L 10";
 
 
 require_once($yii);
