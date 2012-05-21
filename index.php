@@ -12,7 +12,7 @@ $config=dirname(__FILE__).'/protected/config/main.php';
 
 //
 	if (1!=1)
-		echo "mmmmmmmmmmmmmmm";
+		echo "L 01";
 
 
 require_once($yii);
